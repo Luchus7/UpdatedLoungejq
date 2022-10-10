@@ -29,3 +29,12 @@ h2 {
     background-repeat: no-repeat;
     background-position: top left;
 }
+.luchus {
+    border-color: aqua;
+    border-width: 7px;
+    border-style: solid;
+    background-color: #ffffaa;
+    padding: 15px;
+    margin-left: 43%;
+    margin-right: 43%;
+}
